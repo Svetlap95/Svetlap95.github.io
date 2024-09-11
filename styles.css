@@ -1,6 +1,25 @@
-/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
 
-/* Estilo para el título */
+.container {
+    background-color: #014d4e; /* Azul-verdoso oscuro */
+    text-align: center;
+    padding: 50px 0;
+}
+
 h1 {
-    color: #ff5722; /* Color naranja */
+    color: #e1f7d5; /* Color armonioso con el fondo */
+    font-size: 24px;
+    margin: 0;
+}
+
+p {
+    color: #000;
+    font-size: 16px;
+    margin: 20px;
+    text-align: justify;
 }
