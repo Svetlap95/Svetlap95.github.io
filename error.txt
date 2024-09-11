@@ -1,6 +1,6 @@
 La hoja de estílos no puede ser cargada. file:///run/user/1000/doc/6808a6b9/styles.css
 
 SOLUCIÓN ERROR:
-svetla@svetla-MSI:~/Escritorio/gitHub/Svetlap95.github.io$ python3 -m http.serve
+svetla@svetla-MSI:~/Escritorio/gitHub/Svetlap95.github.io$ python3 -m http.server
  http://localhost:8000/
  

@@ -23,3 +23,27 @@ p {
     margin: 20px;
     text-align: justify;
 }
+
+/* Estilos para el cuadro de texto y el botón */
+.input-container {
+    text-align: center;
+    margin: 20px;
+}
+
+#inputBuscar {
+    padding: 10px;
+    font-size: 16px;
+}
+
+#btnBuscar {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #014d4e;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#btnBuscar:hover {
+    background-color: #01393b;
+}
